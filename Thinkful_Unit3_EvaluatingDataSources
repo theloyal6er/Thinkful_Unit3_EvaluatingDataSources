@@ -1,8 +1,15 @@
 Question #1
-Data would be skewed towards a Christmas holiday selection in Amsterdam. Not only is the data inflated because of the general holidays, but you would only see data that would be Christmas-oriented. How would you account for summer-related activites? Would the Chrismas holidays skew tourist attraction, prices, and availabilites?
+Data would be skewed towards a Christmas holiday selection in Amsterdam.
+Not only is the data inflated because of the general holidays, but you would only see data that would be Christmas-oriented.
+How would you account for summer-related activites? Would the Chrismas holidays skew tourist attraction, prices, and
+availabilites?
 
 Question #2
-We would see mental health services use rise for both cities knowing it was after a tragic day. But not only will those averages be skewed versus a "normal" use-case, NYC mental health services would be drastically higher given NYC was the direct city impacted. That would be a biased sampling under extreme circumstances.
+We would see mental health services use rise for both cities knowing it was after a tragic day.
+But not only will those averages be skewed versus a "normal" use-case, NYC mental health services would be drastically
+higher given NYC was the direct city impacted. That would be a biased sampling under extreme circumstances.
 
 Question #3
-Bias would skew towards a demographic of students - attendants would skew towards more social reasons than professional and fit towards students, who are younger, and most likely have less to spend. To them, the ambiance of music is more important than the food itself because they're there for to meet their friends rather than any other reason to go to a pub.
+Bias would skew towards a demographic of students - attendants would skew towards more social reasons than professional
+and fit towards students, who are younger, and most likely have less to spend. To them, the ambiance of music is more
+important than the food itself because they're there for to meet their friends rather than any other reason to go to a pub.
